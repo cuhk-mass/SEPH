@@ -1,0 +1,4 @@
+# Dependicies
+- meson
+- fmt
+- pmemobj++

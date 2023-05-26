@@ -1,0 +1,23 @@
+text.usetex: True
+# text.latex.preamble: \usepackage{lmodern}
+lines.linewidth: 1
+lines.markersize: 4
+# axes.labelsize: 7
+# xtick.labelsize: 7
+# ytick.labelsize: 7
+# legend.fontsize: 10
+# font.size: 12
+font.family: sans-serif
+font.serif: lmodern
+xtick.minor.visible: False
+xtick.top: False
+ytick.minor.visible: False
+ytick.right: False
+ytick.major.pad: 1.5
+legend.fancybox: True
+legend.shadow: False
+legend.frameon: False
+legend.framealpha: 0.8
+axes.prop_cycle: cycler('color', ['474747D0', '0C5DA5D0', '845B97D0', '00B945D0', '3cb38dd0', 'FF9500D0', 'FF2C00D0', '9E9E9ED0'])
+
+
